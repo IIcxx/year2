@@ -1,0 +1,15 @@
+C:\programming folder\year2\iThinkSoQuestionMark\bin\Debug\net6.0\iThinkSoQuestionMark.exe
+C:\programming folder\year2\iThinkSoQuestionMark\bin\Debug\net6.0\iThinkSoQuestionMark.deps.json
+C:\programming folder\year2\iThinkSoQuestionMark\bin\Debug\net6.0\iThinkSoQuestionMark.runtimeconfig.json
+C:\programming folder\year2\iThinkSoQuestionMark\bin\Debug\net6.0\iThinkSoQuestionMark.dll
+C:\programming folder\year2\iThinkSoQuestionMark\bin\Debug\net6.0\iThinkSoQuestionMark.pdb
+C:\programming folder\year2\iThinkSoQuestionMark\obj\Debug\net6.0\iThinkSoQuestionMark.csproj.AssemblyReference.cache
+C:\programming folder\year2\iThinkSoQuestionMark\obj\Debug\net6.0\iThinkSoQuestionMark.GeneratedMSBuildEditorConfig.editorconfig
+C:\programming folder\year2\iThinkSoQuestionMark\obj\Debug\net6.0\iThinkSoQuestionMark.AssemblyInfoInputs.cache
+C:\programming folder\year2\iThinkSoQuestionMark\obj\Debug\net6.0\iThinkSoQuestionMark.AssemblyInfo.cs
+C:\programming folder\year2\iThinkSoQuestionMark\obj\Debug\net6.0\iThinkSoQuestionMark.csproj.CoreCompileInputs.cache
+C:\programming folder\year2\iThinkSoQuestionMark\obj\Debug\net6.0\iThinkSoQuestionMark.dll
+C:\programming folder\year2\iThinkSoQuestionMark\obj\Debug\net6.0\refint\iThinkSoQuestionMark.dll
+C:\programming folder\year2\iThinkSoQuestionMark\obj\Debug\net6.0\iThinkSoQuestionMark.pdb
+C:\programming folder\year2\iThinkSoQuestionMark\obj\Debug\net6.0\iThinkSoQuestionMark.genruntimeconfig.cache
+C:\programming folder\year2\iThinkSoQuestionMark\obj\Debug\net6.0\ref\iThinkSoQuestionMark.dll
